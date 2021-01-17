@@ -1,7 +1,7 @@
 ## Helix Daughterboard
 The helix daughterboard is a USB breakout board designed specifically for keyboards. The board integrates 11 components in a relatively small-sized PCB, and it's able to provide full protection for USB2.0 interface.
 
-![](Assets/Images/Helix-Daughterboard_3D.png)
+![](./Assets/Images/Helix-Daughterboard_3D.png)
 
 ### FEATURES
 
@@ -10,7 +10,7 @@ The helix daughterboard is a USB breakout board designed specifically for keyboa
 
 ### DEATILS
 
-![](Assets/Images/Helix-Daughterboard_Schematic.png)
+![](./Assets/Images/Helix-Daughterboard_Schematic.png)
 
 * J1 is the USB3.0 receptacle with a row of through-hole data pins, with which the receptacle can be soldered much more firmly. In addition, C1 must have the rated voltage ≥2KV.
 
